@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishdalvi-172908383">
+  <a href="https://www.linkedin.com/in/ashish-dalvi-172908383/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/0b98ee5d-89d8-4280-b315-e6183cb267f9">
