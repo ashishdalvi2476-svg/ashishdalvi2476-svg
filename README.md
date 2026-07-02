@@ -16,8 +16,8 @@
 ### 🚀 About Me
 - 📚 Grinding: **Data Structures & Algorithms** in C++
 - 🌱 Open Source: **GSSoC '26 Contributor**
-- 🏆 **Grand Master** @ Coding Ninjas
-- 💯 **180+ problems solved** across LeetCode, Coding Ninjas, HackerRank & GFG
+- 🏆 **Ninja Dominator** @ Coding Ninjas
+- 💯 **200+ problems solved** across LeetCode, Coding Ninjas, HackerRank & GFG
 - 🎯 Target: SDE role & Internship at a product-based company
 
 ---
