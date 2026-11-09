@@ -60,7 +60,7 @@ Explore my portfolio to know more about me, my skills, projects, and development
 
 - [LinkedIn](https://www.linkedin.com/in/ashish-dalvi-172908383/)
 - [Codolio](https://codolio.com/profile/Ashish2476)
-- [LeetCode](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+- [LeetCode](https://leetcode.com/u/Ashish2476/)
 
 ---
 
